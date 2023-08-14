@@ -11,4 +11,4 @@ Integrantes:
 
 Guilherme Crosera Lobo
 
-  Para falar a verdade não fazia idéia do que era computação visual, pelo nome parece algum editor de imagens tipo photoshop, mas depois da primeira aula deu para perceber que está muito mais relacionado a matematica e algoritimos
+  Para falar a verdade não fazia idéia do que era computação visual, pelo nome parece algum editor de imagens tipo photoshop, mas depois da primeira aula deu para perceber que está muito mais relacionado a matematica e algoritimos.
