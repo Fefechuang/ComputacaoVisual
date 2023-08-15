@@ -7,3 +7,6 @@ Integrantes:
   Guilherme Crosera Lobo - 42007178 
   Kevin Yao Ji - 41916492
 ```
+
+
+Tarefa Semana 1 está na aba "Wiki"
