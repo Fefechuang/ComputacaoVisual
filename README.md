@@ -9,4 +9,4 @@ Integrantes:
 ```
 
 
-Tarefa Semana 1 está na aba "Wiki"
+Tarefa "Semana 2: Online - Teoria" está na aba "Wiki"
